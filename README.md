@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="Logo La Reserva.png" width="300" />
+<img src="https://github.com/Danel093/La-Reserva/blob/main/screenshots/Logo%20La%20Reserva.png" width="300" />
 <br>
 Restaurant Table Reservation System - RTRS
 <br>
